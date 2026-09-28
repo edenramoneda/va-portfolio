@@ -1,0 +1,8 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.dot-grid {
+  background-image: radial-gradient(rgba(157, 204, 238, 0.55) 1px, transparent 1px);
+  background-size: 18px 18px;
+}
