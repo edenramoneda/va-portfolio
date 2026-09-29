@@ -109,8 +109,20 @@
       <div class="flex flex-col justify-between gap-4 sm:flex-row sm:items-end">
         <div><p class="text-sm font-bold uppercase tracking-[.18em] text-slate">Selected work</p><h2 class="mt-3 text-3xl font-semibold tracking-tight sm:text-4xl">Projects</h2></div></div>
       <div class="mt-12 grid gap-6 md:grid-cols-2">
-        <article class="group overflow-hidden rounded-3xl bg-ink shadow-soft"><div class="relative h-72 overflow-hidden"><img class="h-full w-full object-cover transition duration-500 group-hover:scale-105" src="https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&amp;fit=crop&amp;w=1200&amp;q=85" alt="Team reviewing lead generation strategy" /><div class="absolute inset-0 bg-gradient-to-t from-ink via-ink/20 to-transparent"></div><span class="absolute left-6 top-6 rounded-full bg-sky px-3 py-1 text-xs font-bold text-ink">Featured project</span><h3 class="absolute bottom-6 left-6 text-3xl font-semibold text-white">Lead Generation</h3></div><div class="flex items-center justify-between gap-4 p-6"><p class="text-sm leading-6 text-white/70">Targeted research and prospect list building to help outreach start stronger.</p><span class="shrink-0 text-sky">Coming soon →</span></div></article>
-        <div class="flex min-h-80 flex-col items-center justify-center rounded-3xl border-2 border-dashed border-sky bg-white p-8 text-center"><span class="flex h-12 w-12 items-center justify-center rounded-full bg-mist text-2xl text-slate">+</span><h3 class="mt-5 text-lg font-bold">More projects coming soon</h3><p class="mt-2 max-w-xs text-sm leading-6 text-slate">This space is ready for your next case study, portfolio image, or client success story.</p></div>
+        <article class="group overflow-hidden rounded-3xl bg-ink shadow-soft">
+          <div class="relative h-72 overflow-hidden">
+            <img class="h-full w-full object-cover transition duration-500 group-hover:scale-105" src="/assets/img/Linkedin_Leads.png" alt="combined leads screenshot" />
+            <div class="absolute inset-0 bg-gradient-to-t from-ink via-ink/20 to-transparent"></div>
+            <h3 class="absolute bottom-6 left-6 text-3xl font-semibold text-white">LinkedIn Lead Generation </h3>
+          </div>
+          <div class="flex items-center justify-between gap-4 p-6">
+            <p class="text-sm leading-6 text-white/70">
+              Conducted targeted LinkedIn lead generation to identify and qualify Founders, Co-Founders, and Business Owners based on specific criteria. Used ContactOut and Apollo.io to 
+              find contact information and organized qualified leads for outreach.
+            </p>
+          </div>
+        </article>
+        
       </div>
     </section>
 
