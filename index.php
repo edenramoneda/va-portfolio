@@ -161,6 +161,19 @@
         </article>
         <article class="group overflow-hidden rounded-3xl bg-ink shadow-soft">
           <div class="relative h-72 overflow-hidden">
+            <img class="h-full w-full object-cover transition duration-500 group-hover:scale-105" src="/assets/img/Email_management.png" alt="Email Management screenshot" />
+            <div class="absolute inset-0 bg-gradient-to-t from-ink via-ink/20 to-transparent"></div>
+            <h3 class="absolute bottom-6 left-6 text-3xl font-semibold text-white">Email Management </h3>
+            <button type="button" data-lightbox-trigger data-image-src="/assets/img/Email_management.png" data-image-alt="Email Management screenshot" data-image-title="Email Management" class="absolute right-5 top-5 z-10 rounded-full bg-[rgba(17,54,96,0.82)] px-4 py-2 text-sm font-bold text-white shadow-sm transition hover:bg-ink focus:outline-none focus:ring-2 focus:ring-sky">View image <span aria-hidden="true">↗</span></button>
+          </div>
+          <div class="flex items-center justify-between gap-4 p-6">
+            <p class="text-sm leading-6 text-white/70">
+              Managed inbox organization using Gmail filters and labels to automatically sort messages and keep the inbox organized.
+            </p>
+          </div>
+        </article>
+        <article class="group overflow-hidden rounded-3xl bg-ink shadow-soft">
+          <div class="relative h-72 overflow-hidden">
             <img class="h-full w-full object-cover transition duration-500 group-hover:scale-105" src="/assets/img/Data_Entry.png" alt="Data Entry screenshot" />
             <div class="absolute inset-0 bg-gradient-to-t from-ink via-ink/20 to-transparent"></div>
             <h3 class="absolute bottom-6 left-6 text-3xl font-semibold text-white">Data Extraction & Entry </h3>
