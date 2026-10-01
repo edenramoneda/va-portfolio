@@ -35,11 +35,10 @@
           <p class="mb-5 inline-flex items-center gap-2 rounded-full border border-sky/30 bg-white/5 px-4 py-2 text-sm font-medium text-sky"><span class="h-2 w-2 rounded-full bg-sky"></span> General Virtual Assistant</p>
           <h1 class="max-w-2xl text-5xl font-semibold leading-[1.05] tracking-tight text-white sm:text-6xl">Hi, I’m <span class="text-sky">Ma. Eden</span></h1>
           <p class="mt-6 max-w-xl text-lg leading-8 text-white/75">
-            Tech-savvy professional with a background in web development, 
-            bringing strong technical, organizational, and problem-solving 
-            skills to virtual assistance. I help businesses stay organized 
-            and on track with research, documentation, administrative tasks, lead generation, 
-            and day-to-day operational tasks that keep work running smoothly.
+            Tech-savvy professional with experience and a solid technical background, 
+            bringing organizational, problem-solving, and communication skills to virtual assistance. 
+            I help businesses stay organized and on track with research, documentation, calendar scheduling,
+            administrative tasks, lead generation, data-entry and day-to-day support.
           </p>
           <div class="mt-9 flex flex-wrap gap-4">
             <a href="#contact" class="rounded-full bg-sky px-6 py-3 text-sm font-bold text-ink transition hover:-translate-y-0.5 hover:bg-white">Let's work together <span aria-hidden="true">→</span></a>
@@ -144,6 +143,71 @@
           <div class="flex items-center justify-between gap-4 p-6">
             <p class="text-sm leading-6 text-white/70">
             Conducted targeted Instagram research to identify dental influencers in the USA and organized relevant lead information.
+            </p>
+          </div>
+        </article>
+        <article class="group overflow-hidden rounded-3xl bg-ink shadow-soft">
+          <div class="relative h-72 overflow-hidden">
+            <img class="h-full w-full object-cover transition duration-500 group-hover:scale-105" src="/assets/img/Calendar_scheduling.png" alt="Calendar Scheduling screenshot" />
+            <div class="absolute inset-0 bg-gradient-to-t from-ink via-ink/20 to-transparent"></div>
+            <h3 class="absolute bottom-6 left-6 text-3xl font-semibold text-white">Calendar Scheduling </h3>
+            <button type="button" data-lightbox-trigger data-image-src="/assets/img/Calendar_scheduling.png" data-image-alt="WebData Scraping screenshot" data-image-title="Calendar Scheduling" class="absolute right-5 top-5 z-10 rounded-full bg-[rgba(17,54,96,0.82)] px-4 py-2 text-sm font-bold text-white shadow-sm transition hover:bg-ink focus:outline-none focus:ring-2 focus:ring-sky">View image <span aria-hidden="true">↗</span></button>
+          </div>
+          <div class="flex items-center justify-between gap-4 p-6">
+            <p class="text-sm leading-6 text-white/70">
+              Managed calendar scheduling across time zones, ensuring accurate event times and reminders.
+            </p>
+          </div>
+        </article>
+        <article class="group overflow-hidden rounded-3xl bg-ink shadow-soft">
+          <div class="relative h-72 overflow-hidden">
+            <img class="h-full w-full object-cover transition duration-500 group-hover:scale-105" src="/assets/img/Data_Entry.png" alt="Data Entry screenshot" />
+            <div class="absolute inset-0 bg-gradient-to-t from-ink via-ink/20 to-transparent"></div>
+            <h3 class="absolute bottom-6 left-6 text-3xl font-semibold text-white">Data Extraction & Entry </h3>
+            <button type="button" data-lightbox-trigger data-image-src="/assets/img/Data_Entry.png" data-image-alt="Data Entry screenshot" data-image-title="Data Extraction & Entry" class="absolute right-5 top-5 z-10 rounded-full bg-[rgba(17,54,96,0.82)] px-4 py-2 text-sm font-bold text-white shadow-sm transition hover:bg-ink focus:outline-none focus:ring-2 focus:ring-sky">View image <span aria-hidden="true">↗</span></button>
+          </div>
+          <div class="flex items-center justify-between gap-4 p-6">
+            <p class="text-sm leading-6 text-white/70">
+              Extracted company information from a PDF and organized it into the appropriate spreadsheet fields.
+            </p>
+          </div>
+        </article>
+        <article class="group overflow-hidden rounded-3xl bg-ink shadow-soft">
+          <div class="relative h-72 overflow-hidden">
+            <img class="h-full w-full object-cover transition duration-500 group-hover:scale-105" src="/assets/img/Data_Entry.png" alt="Data Entry screenshot" />
+            <div class="absolute inset-0 bg-gradient-to-t from-ink via-ink/20 to-transparent"></div>
+            <h3 class="absolute bottom-6 left-6 text-3xl font-semibold text-white">Data Research & Entry </h3>
+            <button type="button" data-lightbox-trigger data-image-src="/assets/img/Data_research_and_entry.png" data-image-alt="Data Research screenshot" data-image-title="Data Research & Entry" class="absolute right-5 top-5 z-10 rounded-full bg-[rgba(17,54,96,0.82)] px-4 py-2 text-sm font-bold text-white shadow-sm transition hover:bg-ink focus:outline-none focus:ring-2 focus:ring-sky">View image <span aria-hidden="true">↗</span></button>
+          </div>
+          <div class="flex items-center justify-between gap-4 p-6">
+            <p class="text-sm leading-6 text-white/70">
+            Researched coffee shops based on specific criteria and organized the relevant details in a spreadsheet.
+            </p>
+          </div>
+        </article>
+        <article class="group overflow-hidden rounded-3xl bg-ink shadow-soft">
+          <div class="relative h-72 overflow-hidden">
+            <img class="h-full w-full object-cover transition duration-500 group-hover:scale-105" src="/assets/img/Data_Entry.png" alt="Data Entry screenshot" />
+            <div class="absolute inset-0 bg-gradient-to-t from-ink via-ink/20 to-transparent"></div>
+            <h3 class="absolute bottom-6 left-6 text-3xl font-semibold text-white">Web Data Scraping </h3>
+            <button type="button" data-lightbox-trigger data-image-src="/assets/img/Data_scraping.png" data-image-alt="WebData Scraping screenshot" data-image-title="Web Data Scraping" class="absolute right-5 top-5 z-10 rounded-full bg-[rgba(17,54,96,0.82)] px-4 py-2 text-sm font-bold text-white shadow-sm transition hover:bg-ink focus:outline-none focus:ring-2 focus:ring-sky">View image <span aria-hidden="true">↗</span></button>
+          </div>
+          <div class="flex items-center justify-between gap-4 p-6">
+            <p class="text-sm leading-6 text-white/70">
+              Researched auto detailing services in Los Angeles using Yellow Pages and organized the relevant business information in a spreadsheet.
+            </p>
+          </div>
+        </article>
+        <article class="group overflow-hidden rounded-3xl bg-ink shadow-soft">
+          <div class="relative h-72 overflow-hidden">
+            <img class="h-full w-full object-cover transition duration-500 group-hover:scale-105" src="/assets/img/Data_Entry.png" alt="Data Entry screenshot" />
+            <div class="absolute inset-0 bg-gradient-to-t from-ink via-ink/20 to-transparent"></div>
+            <h3 class="absolute bottom-6 left-6 text-3xl font-semibold text-white">Email Marketing </h3>
+            <button type="button" data-lightbox-trigger data-image-src="/assets/img/EmailMarketing.png" data-image-alt="WebData Scraping screenshot" data-image-title="Email Marketing" class="absolute right-5 top-5 z-10 rounded-full bg-[rgba(17,54,96,0.82)] px-4 py-2 text-sm font-bold text-white shadow-sm transition hover:bg-ink focus:outline-none focus:ring-2 focus:ring-sky">View image <span aria-hidden="true">↗</span></button>
+          </div>
+          <div class="flex items-center justify-between gap-4 p-6">
+            <p class="text-sm leading-6 text-white/70">
+              Created and scheduled an email campaign based on the assigned topic, “Your Financial Future Starts with the Right Plan.
             </p>
           </div>
         </article>
