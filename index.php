@@ -81,7 +81,7 @@
             <p><strong class="text-ink">AI:</strong> ChatGPT, Claude &amp; Gemini</p>
             <p><strong class="text-ink">Social Media:</strong> Buffer &amp; Publer</p>
           </div></div>
-          <div class="rounded-3xl bg-ink p-7 text-white"><h3 class="text-lg font-bold">Creative &amp; Technical</h3><div class="mt-5 space-y-5 text-sm leading-6 text-white/75"><p><strong class="text-sky">Design:</strong> Canva, Figma, Photoshop &amp; Lightroom</p><p><strong class="text-sky">Technical:</strong> Laravel, PHP, REST APIs, Livewire, Tailwind CSS, Vue.js &amp; Git</p><p><strong class="text-sky">Data &amp; cloud:</strong> MySQL, MSSQL, MongoDB, DigitalOcean &amp; AWS</p><p><strong class="text-sky">Automation:</strong> n8n (basic workflow automation)</p></div></div>
+          <div class="rounded-3xl bg-ink p-7 text-white"><h3 class="text-lg font-bold">Creative &amp; Technical</h3><div class="mt-5 space-y-5 text-sm leading-6 text-white/75"><p><strong class="text-sky">Design:</strong> Canva, Figma, Photoshop &amp; Lightroom</p></div></div>
         </div>
       </div>
     </section>
