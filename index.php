@@ -362,6 +362,26 @@
             </p>
           </div>
         </article>
+        <article class="group overflow-hidden rounded-3xl bg-ink shadow-soft">
+          <div class="relative h-72 overflow-hidden">
+            <img class="h-full w-full object-cover transition duration-500 group-hover:scale-105" src="/assets/img/canva_post_1.png" alt="Data Entry screenshot" />
+            <div class="absolute inset-0 bg-gradient-to-t from-ink via-ink/20 to-transparent"></div>
+            <h3 class="absolute bottom-6 left-6 text-3xl font-semibold text-white">Canva Client Post Creation</h3>
+            <button
+              type="button"
+              data-lightbox-trigger
+              data-image-src="/assets/img/canva_post_1.png"
+              data-image-alt="WebData Scraping screenshot"
+              data-image-title="Canva Client Post Creation"
+              class="absolute right-5 top-5 z-10 rounded-full bg-[rgba(17,54,96,0.82)] px-4 py-2 text-sm font-bold text-white shadow-sm transition hover:bg-ink focus:outline-none focus:ring-2 focus:ring-sky"
+            >View image <span aria-hidden="true">↗</span></button>
+          </div>
+          <div class="flex items-center justify-between gap-4 p-6">
+            <p class="text-sm leading-6 text-white/70">
+              Created a professional social media graphic in Canva based on the topic “Smart Habits That Build Client Trust,” following the required design guidelines, messaging, and CTA for Facebook posting.
+            </p>
+          </div>
+        </article>
       </div>
     </section>
 
