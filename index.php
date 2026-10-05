@@ -15,7 +15,6 @@
       <a href="#home" class="text-lg font-bold tracking-tight text-white">Eden Ramoneda | Your Virtual Assistant</a>
       <div class="hidden items-center gap-7 text-sm font-medium text-white/80 md:flex">
         <a class="transition hover:text-sky" href="#services">Services</a>
-        <a class="transition hover:text-sky" href="#skills">Skills</a>
         <a class="transition hover:text-sky" href="#training">Training</a>
         <a class="transition hover:text-sky" href="#projects">Projects</a>
         <a class="transition hover:text-sky" href="#contact">Contact</a>
@@ -65,66 +64,101 @@
       </div>
     </section>
 
-    <section id="services" class="mx-auto max-w-6xl px-6 py-20 lg:px-8 lg:py-28">
-      <div class="max-w-2xl">
-        <p class="text-sm font-bold uppercase tracking-[.18em] text-slate">How I can help</p>
-        <h2 class="mt-3 text-3xl font-semibold tracking-tight sm:text-4xl">Reliable support, thoughtfully delivered.</h2>
-        <p class="mt-4 leading-7 text-slate">From everyday admin to the tasks that keep business moving, I handle the details with care.</p>
-      </div>
-      <div class="mt-12 grid gap-5 md:grid-cols-3">
-        <article class="rounded-3xl bg-white p-7 shadow-soft">
-          <div class="flex h-11 w-11 items-center justify-center rounded-2xl bg-mist text-xl">✦</div>
-          <h3 class="mt-5 text-xl font-bold">Admin &amp; organization</h3>
-          <p class="mt-3 leading-7 text-slate">Inbox, calendars, documentation, data entry, and task management that keep your business on track.</p>
-        </article>
-        <article class="rounded-3xl bg-ink p-7 shadow-soft">
-          <div class="flex h-11 w-11 items-center justify-center rounded-2xl bg-slate text-xl text-sky">↗</div>
-          <h3 class="mt-5 text-xl font-bold text-white">Growth support</h3>
-          <p class="mt-3 leading-7 text-white/70">Research, lead generation, appointment scheduling, and social media support to help your business grow.</p>
-        </article>
-        <article class="rounded-3xl bg-white p-7 shadow-soft">
-          <div class="flex h-11 w-11 items-center justify-center rounded-2xl bg-mist text-xl">◎</div>
-          <h3 class="mt-5 text-xl font-bold">Content &amp; systems</h3>
-          <p class="mt-3 leading-7 text-slate">Simple design, spreadsheet support, and social media post creation & basic content formatting.</p>
-        </article>
-      </div>
-    </section>
-
-    <section id="skills" class="bg-mist/55 py-20 lg:py-28">
+    <section id="services" class="scroll-mt-24 bg-mist/40 py-20 lg:py-28">
       <div class="mx-auto max-w-6xl px-6 lg:px-8">
-        <div class="flex flex-col justify-between gap-4 sm:flex-row sm:items-end">
-          <div>
-            <h2 class="mt-3 text-3xl font-semibold tracking-tight sm:text-4xl">Skills and tools to support your business</h2>
-          </div>
+        <div class="max-w-2xl">
+          <p class="text-sm font-bold uppercase tracking-[.18em] text-slate">How I can help</p>
+          <h2 class="mt-3 text-3xl font-semibold tracking-tight sm:text-4xl">Services I offer</h2>
+          <p class="mt-4 leading-7 text-slate">From everyday admin to the tasks that keep business moving, I handle the details with care.</p>
         </div>
-        <div class="mt-12 grid gap-5 lg:grid-cols-3">
-          <div class="rounded-3xl bg-white p-7">
-            <h3 class="text-lg font-bold">Core skills</h3>
+
+        <div class="mt-12 grid gap-5 md:grid-cols-3">
+          <article class="flex flex-col rounded-3xl bg-white p-7 shadow-soft">
+            <div class="flex h-11 w-11 items-center justify-center rounded-2xl bg-mist text-xl">✦</div>
+            <h3 class="mt-5 text-xl font-bold">Admin &amp; organization</h3>
             <ul class="mt-5 space-y-3 text-sm leading-6 text-slate">
-              <li>Administrative support</li>
-              <li>Research &amp; information gathering</li>
-              <li>Calendar &amp; appointment scheduling</li>
-              <li>Email management</li>
-              <li>Lead generation</li>
-              <li>Social media support</li>
-              <li>Data entry &amp; spreadsheets</li>
-              <li>Documentation &amp; task management</li>
+              <li class="flex gap-3"><span class="mt-2 h-2 w-2 shrink-0 rounded-full bg-sky"></span>Administrative support</li>
+              <li class="flex gap-3"><span class="mt-2 h-2 w-2 shrink-0 rounded-full bg-sky"></span>Email management</li>
+              <li class="flex gap-3"><span class="mt-2 h-2 w-2 shrink-0 rounded-full bg-sky"></span>Calendar &amp; appointment scheduling</li>
+              <li class="flex gap-3"><span class="mt-2 h-2 w-2 shrink-0 rounded-full bg-sky"></span>Documentation &amp; task management</li>
+              <li class="flex gap-3"><span class="mt-2 h-2 w-2 shrink-0 rounded-full bg-sky"></span>Data entry &amp; spreadsheets</li>
             </ul>
-          </div>
-          <div class="rounded-3xl bg-white p-7">
-            <h3 class="text-lg font-bold">Business & Productivity Tools</h3>
-            <div class="mt-5 space-y-5 text-sm leading-6 text-slate">
-              <p><strong class="text-ink">Workspace:</strong> Google Docs, Sheets, Drive; Microsoft Word, Excel, PowerPoint &amp; Teams</p>
-              <p><strong class="text-ink">Project Management:</strong> Trello, ClickUp</p>
-              <p><strong class="text-ink">Lead generation:</strong> ContactOut &amp; Apollo.io</p>
-              <p><strong class="text-ink">AI:</strong> ChatGPT, Claude &amp; Gemini</p>
+          </article>
+          <article class="flex flex-col rounded-3xl bg-ink p-7 text-white shadow-soft">
+            <div class="flex h-11 w-11 items-center justify-center rounded-2xl bg-slate text-xl text-sky">↗</div>
+            <h3 class="mt-5 text-xl font-bold">Growth support</h3>
+            <ul class="mt-5 space-y-3 text-sm leading-6 text-white/75">
+              <li class="flex gap-3"><span class="mt-2 h-2 w-2 shrink-0 rounded-full bg-sky"></span>Research &amp; information gathering</li>
+              <li class="flex gap-3"><span class="mt-2 h-2 w-2 shrink-0 rounded-full bg-sky"></span>Lead generation</li>
+              <li class="flex gap-3"><span class="mt-2 h-2 w-2 shrink-0 rounded-full bg-sky"></span>Appointment scheduling</li>
+              <li class="flex gap-3"><span class="mt-2 h-2 w-2 shrink-0 rounded-full bg-sky"></span>Social media support</li>
+            </ul>
+          </article>
+          <article class="flex flex-col rounded-3xl bg-white p-7 shadow-soft">
+            <div class="flex h-11 w-11 items-center justify-center rounded-2xl bg-mist text-xl">◎</div>
+            <h3 class="mt-5 text-xl font-bold">Content &amp; systems</h3>
+            <ul class="mt-5 space-y-3 text-sm leading-6 text-slate">
+              <li class="flex gap-3"><span class="mt-2 h-2 w-2 shrink-0 rounded-full bg-sky"></span>Simple design</li>
+              <li class="flex gap-3"><span class="mt-2 h-2 w-2 shrink-0 rounded-full bg-sky"></span>Spreadsheet support</li>
+              <li class="flex gap-3"><span class="mt-2 h-2 w-2 shrink-0 rounded-full bg-sky"></span>Social media post creation</li>
+              <li class="flex gap-3"><span class="mt-2 h-2 w-2 shrink-0 rounded-full bg-sky"></span>Basic content formatting</li>
+            </ul>
+          </article>
+        </div>
+
+        <div id="skills" class="mt-5 rounded-[2rem] bg-ink p-7 text-white shadow-soft sm:p-9">
+          <p class="text-xs font-bold uppercase tracking-[.16em] text-sky">Tools</p>
+          <h3 class="mt-2 text-xl font-bold">What I work with</h3>
+          <div class="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+            <div>
+              <p class="text-xs font-bold uppercase tracking-[.14em] text-white/50">Workspace</p>
+              <div class="mt-3 flex flex-wrap gap-2">
+                <span class="rounded-full bg-white/10 px-3 py-1 text-sm">Google Docs</span>
+                <span class="rounded-full bg-white/10 px-3 py-1 text-sm">Sheets</span>
+                <span class="rounded-full bg-white/10 px-3 py-1 text-sm">Drive</span>
+                <span class="rounded-full bg-white/10 px-3 py-1 text-sm">Word</span>
+                <span class="rounded-full bg-white/10 px-3 py-1 text-sm">Excel</span>
+                <span class="rounded-full bg-white/10 px-3 py-1 text-sm">PowerPoint</span>
+                <span class="rounded-full bg-white/10 px-3 py-1 text-sm">Teams</span>
+              </div>
             </div>
-          </div>
-          <div class="rounded-3xl bg-ink p-7 text-white">
-            <h3 class="text-lg font-bold">Creative &amp; Digital Tools</h3>
-            <div class="mt-5 space-y-5 text-sm leading-6 text-white/75">
-              <p><strong class="text-sky">Design:</strong> Canva, Figma, Photoshop &amp; Lightroom</p>
-              <p><strong class="text-sky">Social Media:</strong> Buffer &amp; Publer</p>
+            <div>
+              <p class="text-xs font-bold uppercase tracking-[.14em] text-white/50">Project management</p>
+              <div class="mt-3 flex flex-wrap gap-2">
+                <span class="rounded-full bg-white/10 px-3 py-1 text-sm">Trello</span>
+                <span class="rounded-full bg-white/10 px-3 py-1 text-sm">ClickUp</span>
+              </div>
+            </div>
+            <div>
+              <p class="text-xs font-bold uppercase tracking-[.14em] text-white/50">Lead generation</p>
+              <div class="mt-3 flex flex-wrap gap-2">
+                <span class="rounded-full bg-white/10 px-3 py-1 text-sm">ContactOut</span>
+                <span class="rounded-full bg-white/10 px-3 py-1 text-sm">Apollo.io</span>
+              </div>
+            </div>
+            <div>
+              <p class="text-xs font-bold uppercase tracking-[.14em] text-white/50">AI</p>
+              <div class="mt-3 flex flex-wrap gap-2">
+                <span class="rounded-full bg-white/10 px-3 py-1 text-sm">ChatGPT</span>
+                <span class="rounded-full bg-white/10 px-3 py-1 text-sm">Claude</span>
+                <span class="rounded-full bg-white/10 px-3 py-1 text-sm">Gemini</span>
+              </div>
+            </div>
+            <div>
+              <p class="text-xs font-bold uppercase tracking-[.14em] text-white/50">Design</p>
+              <div class="mt-3 flex flex-wrap gap-2">
+                <span class="rounded-full bg-white/10 px-3 py-1 text-sm">Canva</span>
+                <span class="rounded-full bg-white/10 px-3 py-1 text-sm">Figma</span>
+                <span class="rounded-full bg-white/10 px-3 py-1 text-sm">Photoshop</span>
+                <span class="rounded-full bg-white/10 px-3 py-1 text-sm">Lightroom</span>
+              </div>
+            </div>
+            <div>
+              <p class="text-xs font-bold uppercase tracking-[.14em] text-white/50">Social media</p>
+              <div class="mt-3 flex flex-wrap gap-2">
+                <span class="rounded-full bg-white/10 px-3 py-1 text-sm">Buffer</span>
+                <span class="rounded-full bg-white/10 px-3 py-1 text-sm">Publer</span>
+              </div>
             </div>
           </div>
         </div>
